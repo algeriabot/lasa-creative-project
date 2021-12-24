@@ -5,7 +5,7 @@
  * Hey, thanks for taking a look at my project!
  * This is the code that was uploaded to my board inside the guitar.
  * Quick disclaimer: some of this code was not written by me. This includes small chunks that process frequencies, as it is way too 
- * advanced for a 8th grade student to understand. Treat it like an external library.
+ * advanced for an 8th grade student to understand. Treat it like an external library.
  * I assure you that all the other code was written wholly by me and that I poured hard work into the hardware and software design.
  * 
  */
